@@ -1,6 +1,13 @@
-import { createStore } from 'redux';
-import reducer from './ducks/counter';
+import { applyMiddleware, combineReducers, createStore } from 'redux';
+import logger from 'redux-logger';
+import thunk from 'redux-thunk';
+import quoteReducer from './ducks/quote';
 
-const store = createStore(reducer);
+const reducer = combineReducers({
+  quoteReducer,
+  // additional reducers could be added here
+});
+
+const store = createStore(reducer, applyMiddleware(logger, thunk));
 
 export default store;
