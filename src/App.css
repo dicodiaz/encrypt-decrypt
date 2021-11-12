@@ -13,3 +13,16 @@
 .active-link {
   opacity: 1 !important;
 }
+
+.guessInput {
+  width: 20px;
+  height: 25px;
+  background-color: #212529;
+  color: white;
+  text-align: center;
+}
+
+.hinted {
+  opacity: 0.75;
+  background-color: #292e33;
+}
