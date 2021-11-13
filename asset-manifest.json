@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/encrypt-decrypt/static/css/main.3ee6ad4b.chunk.css",
+    "main.js": "/encrypt-decrypt/static/js/main.1a737722.chunk.js",
+    "main.js.map": "/encrypt-decrypt/static/js/main.1a737722.chunk.js.map",
+    "runtime-main.js": "/encrypt-decrypt/static/js/runtime-main.9f5a521d.js",
+    "runtime-main.js.map": "/encrypt-decrypt/static/js/runtime-main.9f5a521d.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/encrypt-decrypt/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8a9e96a5.chunk.js": "/encrypt-decrypt/static/js/2.8a9e96a5.chunk.js",
+    "static/js/2.8a9e96a5.chunk.js.map": "/encrypt-decrypt/static/js/2.8a9e96a5.chunk.js.map",
+    "static/js/3.0ec63bff.chunk.js": "/encrypt-decrypt/static/js/3.0ec63bff.chunk.js",
+    "static/js/3.0ec63bff.chunk.js.map": "/encrypt-decrypt/static/js/3.0ec63bff.chunk.js.map",
+    "index.html": "/encrypt-decrypt/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/encrypt-decrypt/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.3ee6ad4b.chunk.css.map": "/encrypt-decrypt/static/css/main.3ee6ad4b.chunk.css.map",
+    "static/js/2.8a9e96a5.chunk.js.LICENSE.txt": "/encrypt-decrypt/static/js/2.8a9e96a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f5a521d.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8a9e96a5.chunk.js",
+    "static/css/main.3ee6ad4b.chunk.css",
+    "static/js/main.1a737722.chunk.js"
+  ]
+}
