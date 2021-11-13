@@ -1,6 +1,6 @@
 const Home = () => (
-  <div className="lead fs-2">
-    <p>
+  <div className="lead fs-2 pt-5">
+    <p className="pt-3">
       Welcome to Encrypt - Decrypt! In this site, you will find an encryption game and a decryption
       feature. The goal of the game is simple: Try to decrypt the sentence! Every sentence will be
       in english. Tip: Each encrypted letter is the same for the whole sentence.
